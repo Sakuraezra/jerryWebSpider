@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b201466-0fab-4250-a31f-3da60e1ff331" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jerryWebSpider" beforeDir="false" afterPath="$PROJECT_DIR$/jerryWebSpider" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jerryWebSpider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jerryWebSpider/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jerryWebSpider/src/main/java/com/hytcshare/jerrywebspider/JerryWebSpiderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/jerryWebSpider/src/main/java/com/hytcshare/jerrywebspider/JerryWebSpiderApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jerryWebSpider/src/main/java/com/hytcshare/jerrywebspider/task/TuwanAlbumSpiderTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/jerryWebSpider/src/main/java/com/hytcshare/jerrywebspider/task/TuwanAlbumSpiderTask.java" afterDir="false" />
@@ -105,8 +107,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jerryWebSpider/src/main/java/com/hytcshare/jerrywebspider/task/TuwanAlbumSpiderTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="96" column="54" selection-start-line="96" selection-start-column="54" selection-end-line="96" selection-end-column="54" />
+            <state relative-caret-position="370">
+              <caret line="89" column="40" selection-start-line="89" selection-start-column="40" selection-end-line="89" selection-end-column="40" />
               <folding>
                 <element signature="e#1536#1537#0" expanded="true" />
                 <element signature="e#1585#1586#0" expanded="true" />
@@ -136,8 +138,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jerryWebSpider/src/main/java/com/hytcshare/jerrywebspider/task/TuwanSpiderTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1139">
-              <caret line="76" column="9" lean-forward="true" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+            <state relative-caret-position="873">
+              <caret line="158" column="7" lean-forward="true" selection-start-line="158" selection-start-column="7" selection-end-line="158" selection-end-column="7" />
               <folding>
                 <element signature="e#1350#1351#0" expanded="true" />
                 <element signature="e#1394#1395#0" expanded="true" />
@@ -254,21 +256,6 @@
             <path>
               <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
               <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="pic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -291,112 +278,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jerrywebspider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jerrywebspider" type="462c0819:PsiDirectoryNode" />
-              <item name="constant" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jerrywebspider" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jerrywebspider" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jerrywebspider" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jerrywebspider" type="462c0819:PsiDirectoryNode" />
-              <item name="enums" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jerrywebspider" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jerrywebspider" type="462c0819:PsiDirectoryNode" />
-              <item name="pageprocessor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jerrywebspider" type="462c0819:PsiDirectoryNode" />
-              <item name="pipeline" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jerrywebspider" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jerrywebspider" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jerrywebspider" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jerryWebSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaSpider" type="b2602c69:ProjectViewProjectNode" />
@@ -606,7 +487,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555053263589" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555053919486" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
     <property name="last_opened_file_path" value="D:/Program Files/nodejs/node.exe" />
     <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
@@ -680,12 +561,12 @@
       <option name="presentableId" value="Default" />
       <updated>1555034229546</updated>
       <workItem from="1555034233251" duration="341000" />
-      <workItem from="1555034592736" duration="13194000" />
+      <workItem from="1555034592736" duration="13551000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13535000" />
+    <option name="totallyTimeSpent" value="13892000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1065,24 +946,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jerryWebSpider/src/main/java/com/hytcshare/jerrywebspider/task/TuwanAlbumImageDownloadTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jerryWebSpider/src/main/java/com/hytcshare/jerrywebspider/task/TuwanSpiderTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1139">
-          <caret line="76" column="9" lean-forward="true" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
-          <folding>
-            <element signature="e#1350#1351#0" expanded="true" />
-            <element signature="e#1394#1395#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jerryWebSpider/src/main/java/com/hytcshare/jerrywebspider/task/TuwanImageDownloadTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-299">
@@ -1090,10 +953,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jerryWebSpider/src/main/java/com/hytcshare/jerrywebspider/task/TuwanSpiderTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="873">
+          <caret line="158" column="7" lean-forward="true" selection-start-line="158" selection-start-column="7" selection-end-line="158" selection-end-column="7" />
+          <folding>
+            <element signature="e#1350#1351#0" expanded="true" />
+            <element signature="e#1394#1395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jerryWebSpider/src/main/java/com/hytcshare/jerrywebspider/task/TuwanAlbumImageDownloadTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jerryWebSpider/src/main/java/com/hytcshare/jerrywebspider/task/TuwanAlbumSpiderTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="96" column="54" selection-start-line="96" selection-start-column="54" selection-end-line="96" selection-end-column="54" />
+        <state relative-caret-position="370">
+          <caret line="89" column="40" selection-start-line="89" selection-start-column="40" selection-end-line="89" selection-end-column="40" />
           <folding>
             <element signature="e#1536#1537#0" expanded="true" />
             <element signature="e#1585#1586#0" expanded="true" />
