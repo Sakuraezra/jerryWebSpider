@@ -1,3 +1,4 @@
+/*
 package com.hytcshare.jerrywebspider.controller;
 
 import com.hytcshare.jerrywebspider.service.ErrorLogService;
@@ -13,11 +14,13 @@ import org.springframework.web.context.request.async.DeferredResult;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.ScheduledThreadPoolExecutor;
 
+*/
 /**
  * lesheSpider控制类
  *
  * @author jerryfu
- */
+ *//*
+
 @RestController
 @RequestMapping("/lesheSpider")
 public class lesheSpiderController extends BaseController {
@@ -69,3 +72,4 @@ public class lesheSpiderController extends BaseController {
         return deferredResult;
     }
 }
+*/

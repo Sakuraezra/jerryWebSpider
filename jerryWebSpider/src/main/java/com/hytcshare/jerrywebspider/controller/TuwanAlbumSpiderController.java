@@ -6,6 +6,7 @@ import com.hytcshare.jerrywebspider.service.SpiderTaskService;
 import com.hytcshare.jerrywebspider.service.TuwanAlbumImagesService;
 import com.hytcshare.jerrywebspider.task.TuwanAlbumImageDownloadTask;
 import com.hytcshare.jerrywebspider.task.TuwanAlbumSpiderTask;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -15,9 +16,10 @@ import java.util.concurrent.*;
 
 /**
  * tuwanAlbum控制类
- *
+ * 爬json 太简单了
  * @author jerryfu
  */
+@Slf4j
 @RestController
 @RequestMapping("/tuwanAlbumSpider")
 public class TuwanAlbumSpiderController extends BaseController {
@@ -53,8 +55,10 @@ public class TuwanAlbumSpiderController extends BaseController {
         task.setTuwanStart(start);
         task.setEndLine(end);
         task.setWelfareUrl(welfareUrl);
+        log.info("************目标地址？or爬取的地址={}*****************",welfareUrl);
         task.setSpiderTaskService(spiderTaskService);
         task.setTuwanAlbumSpiderTaskName(spiderTaskName);
+        log.info("************爬虫任务名={}***************",spiderTaskName);
         task.setTuwanAlbumImagesService(tuwanAlbumImagesService);
         singleThreadPool.execute(task);
         singleThreadPool.shutdown();

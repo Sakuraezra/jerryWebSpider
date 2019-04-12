@@ -1,3 +1,4 @@
+/*
 package com.hytcshare.jerrywebspider.controller;
 
 import com.hytcshare.jerrywebspider.service.ErrorLogService;
@@ -14,11 +15,14 @@ import org.springframework.web.context.request.async.DeferredResult;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.ScheduledThreadPoolExecutor;
 
+*/
 /**
  * tuwanSpider控制类
  *
+ * 已废弃
  * @author jerryfu
- */
+ *//*
+
 @RestController
 @RequestMapping("/tuwanSpider")
 public class TuwanSpiderController extends BaseController {
@@ -88,3 +92,4 @@ public class TuwanSpiderController extends BaseController {
 
 
 }
+*/

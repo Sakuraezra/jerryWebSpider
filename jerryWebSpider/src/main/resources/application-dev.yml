@@ -26,6 +26,8 @@ tuwan:
   downloadTaskName: tuwanDownloadTask
   album:
     welfareUrl: https://api.tuwan.com/apps/Welfare/detail
+
+
     spiderTaskName: tuwanAlbumSpiderTask
     downloadTaskName: tuwanAlbumDownloadTask
     imageStorePath: D:\data\tuWan\album

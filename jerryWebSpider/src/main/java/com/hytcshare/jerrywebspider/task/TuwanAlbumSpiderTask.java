@@ -83,7 +83,11 @@ public class TuwanAlbumSpiderTask implements Runnable {
 	}
 
 	private void getAlbumImages(int index) {
+
+		//访问网站
 		String tuwanResult = HttpUtils.get(welfareUrl + "?id=" + index);
+
+
 		log.info("----------index={}------------", index);
 		tuwanResult = tuwanResult.substring(1, tuwanResult.length() - 1);
 		if (tuwanResult.contains("error_msg")) {
